@@ -12,5 +12,5 @@ services:
       - key: PYTHONUNBUFFERED
         value: 1
     numInstances: 1
-    region: ohio
+    region: virginia
     
